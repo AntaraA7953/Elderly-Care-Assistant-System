@@ -116,4 +116,4 @@ This project is licensed under the **MIT License** – feel free to use and exte
 
 ---
 
-Would you like **code snippets** or **help setting up** any feature?
+
